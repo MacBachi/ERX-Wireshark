@@ -1,9 +1,20 @@
 #!/bin/bash
 
-
 # Improved Remote Packet Capture Script
-# https://github.com/MacBachi/ERX-Wireshark
-# Credits: This script is derived from Jerico Thomas work here https://github.com/Throdne/
+# This script is a modified version based on the work of Jerico Thomas
+# Modifications made by: Markus Bachlechner
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License Version 3 as published by
+# the Free Software Foundation.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 # Set strict mode for better error handling and debugging
 set -euo pipefail
