@@ -14,7 +14,7 @@ A robust remote packet capture script leveraging SSH, tcpdump, and Wireshark for
 
 ## Usage
 ```
-./capture-script.sh -u <USER> -s <SERVER> -p <PORT> -i <INTERFACE> [-f <FILTER>]
+./remotecapture.sh -u <USER> -s <SERVER> -p <PORT> -i <INTERFACE> [-f <FILTER>]
 ```
 - **USER**: SSH username
 - **SERVER**: SSH server IP/hostname
